@@ -1,7 +1,7 @@
 <?php
-//  ******************************************************
-//  **********  11-funciones  -----  index.php  **********
-//  ******************************************************
+//  **********************************************************
+//  **********  12-funciones  -----  funciones.php  **********
+//  **********************************************************
 ?>
 
 <html>
@@ -171,7 +171,7 @@ function get_nombre($nombre)
 
 function get_apellidos($apellidos)
 {
-    return " y los apellidos son: $apellidos <br>";
+    return " y los apellidos son: $apellidos <br><br>";
 }
 
 
