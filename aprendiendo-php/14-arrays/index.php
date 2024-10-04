@@ -233,19 +233,9 @@ echo "</pre>";
 //  -----  Nº DE ELEMENTOS  -----
 echo "<br> Nº Elementos del array Cantantes: ".count($cantantes);
 echo "<br> Nº Elementos del array numeros: ".sizeof($numeros);
-// echo "<pre>";
-// $resultado = array_search('Drake', $cantantes);
-// var_dump($cantantes);
-// var_dump($resultado);
-// echo "</pre>";
-
 
 
 echo "<br><br><br><br><hr>";
-
-
-
-
 
 
 ?>
