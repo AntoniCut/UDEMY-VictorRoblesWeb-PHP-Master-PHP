@@ -64,24 +64,6 @@ if(file_exists('fichero_renombrado.txt')) echo "<br><br>El Archivo Existe";
 else echo "<br><br>El Archivo No Existe";
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
     
     
