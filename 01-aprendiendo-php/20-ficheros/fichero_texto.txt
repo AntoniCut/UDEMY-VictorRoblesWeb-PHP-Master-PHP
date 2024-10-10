@@ -1,0 +1,20 @@
+Hola, Soy un fichero de texto,
+que tal estas,
+otra linea.
+
+
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
+ Soy un texto metido desde php
